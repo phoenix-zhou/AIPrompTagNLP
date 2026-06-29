@@ -1,6 +1,9 @@
+推荐系统-文本标签分类NLP
+
+---
+
 本项目实现了从传统机器学习到 BERT 预训练模型的完整迭代，并通过动态量化与知识蒸馏技术，在保障高准确率（93.64%）的同时，实现了极致的推理加速与模型轻量化，完美适配线上高并发推荐场景。
 bert_pretrain文件夹下面的pytorch_model.bin模型下载地址:  https://pan.baidu.com/s/18y5k6p976VLtnEZ1xtNXIQ?pwd=bpvh 提取码: bpvh
----
 
 ## 📋 目录
 
